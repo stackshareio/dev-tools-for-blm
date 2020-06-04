@@ -1,6 +1,6 @@
 # Developer Tools for #BlackLivesMatter
 A comprehensive list of developer tools companies supporting #BlackLivesMatter. For more info on ways you can help visit https://blacklivesmatters.carrd.co/
 
-| Company | Statement | Donations | 
+| Company | Statement | Donate | 
 | :---         |     :---       | :---       |
-|  Company Name  | Statement from company |  Donation description   | 
+|  Gatsby <br> <img src="https://pbs.twimg.com/profile_images/1135999619781939201/HZ-pCQcP_400x400.png" width="100px;" alt=""/>  | <blockquote class="twitter-tweet"><p lang="en" dir="ltr">💜We stand by our community and right now, many are hurting. <br><br>June 1-8, we&#39;ll match community and team members’ donations up to $25,000 USD to: <br>◾<a href="https://twitter.com/ACLUMN?ref_src=twsrc%5Etfw">@ACLUMN</a> <br>◾<a href="https://twitter.com/hashtag/BlackVisionsCollective?src=hash&amp;ref_src=twsrc%5Etfw">#BlackVisionsCollective</a> <br>◾<a href="https://twitter.com/fairfightaction?ref_src=twsrc%5Etfw">@fairfightaction</a> <br>◾<a href="https://twitter.com/hashtag/NorthStarHealthCollective?src=hash&amp;ref_src=twsrc%5Etfw">#NorthStarHealthCollective</a><br>◾<a href="https://twitter.com/NAACP_LDF?ref_src=twsrc%5Etfw">@NAACP_LDF</a><br><br>Details: <a href="https://t.co/1m7cn5HLrr">https://t.co/1m7cn5HLrr</a> <a href="https://t.co/Hn0PoAABgz">pic.twitter.com/Hn0PoAABgz</a></p>&mdash; Gatsby (@GatsbyJS) <a href="https://twitter.com/GatsbyJS/status/1267493819383271425?ref_src=twsrc%5Etfw">June 1, 2020</a></blockquote> |  [👉🏾  Donate here](https://www.gatsbyjs.com/donation-matching/)   | 
