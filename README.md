@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="StackShare Black Lives Matter - Dev Tools" src="stackshare_dev_tools_for_blm.jpg">
+</div>
+
 # Developer Tools for #BlackLivesMatter
 A comprehensive list of developer tools companies supporting #BlackLivesMatter. For more info on ways you can help visit https://blacklivesmatters.carrd.co/.
 
