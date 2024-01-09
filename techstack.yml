@@ -1,0 +1,20 @@
+repo_name: stackshareio/dev-tools-for-blm
+report_id: f421006a8cd148629a77769e0912f726
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T00:04:28+00:00'
+requested_by: yonasb
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/stackshareio/dev-tools-for-blm
+  detection_source: Repo Metadata
