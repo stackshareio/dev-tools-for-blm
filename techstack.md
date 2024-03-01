@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareio/dev-tools-for-blm](https://github.com/stackshareio/dev-tools-for-blm)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|1<br/>Tools used|02/16/24 <br/>Report generated|
+|1<br/>Tools used|03/01/24 <br/>Report generated|
 |------|------|
 </div>
 
